@@ -1,0 +1,10 @@
+.container{
+    width: 35vw;
+    padding: 10px;
+}
+.container input:hover{
+    background: rgb(209, 209, 211);
+}
+.SignUpbtn{
+    margin-left: 40%;
+}

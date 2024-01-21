@@ -1,0 +1,12 @@
+
+
+.show_btn {
+    height: 35px;
+    background-color: #002f34;
+    color: #fff;
+    border-radius: 4px;
+    outline: none;
+    border: none;
+    padding: 1px 16px;
+    margin-right: 10px;
+}
